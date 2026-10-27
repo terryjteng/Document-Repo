@@ -1,0 +1,18 @@
+{
+  "games": [
+    { "c": 0, "code": "STD", "name": "Studio" },
+    { "c": 1, "code": "GAME", "name": "Sample Game" }
+  ],
+  "departments": [
+    { "c": 0, "code": "LEAD", "name": "Leadership" },
+    { "c": 1, "code": "DSGN", "name": "Design" },
+    { "c": 2, "code": "PROD", "name": "Production" },
+    { "c": 3, "code": "ENGR", "name": "Engineering" }
+  ],
+  "categories": [
+    { "c": 0, "code": "PROC", "name": "Process" },
+    { "c": 1, "code": "POL", "name": "Policy" },
+    { "c": 2, "code": "TPL", "name": "Template" },
+    { "c": 3, "code": "REF", "name": "Reference" }
+  ]
+}
